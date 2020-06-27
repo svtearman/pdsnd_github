@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+06/27/2020
 
 ### Project Title
-Replace the Project Title
+udacity-final-project
 
 ### Description
-Describe what your project is about and what it does
+Final Project for Udacity Git Course
 
 ### Files used
-Include the files used
+bikeshare.py, .gitignore/chicago.csv, .gitignore/new_york_city.csv, .gitignore/washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Udacity, https://github.com/udacity/pdsnd_github.git
