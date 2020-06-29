@@ -11,5 +11,5 @@ final project to contain the code from bikeshare python project
 bikeshare.py
 
 ### Credits
-Udacity, https://www.atlassian.com/git/tutorials/saving-changes/gitignore
+Udacity, https://www.atlassian.com/git/tutorials/saving-changes/gitignore, https://www.atlassian.com/git/tutorials/saving-changes/gitignore
 
