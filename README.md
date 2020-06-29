@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+06/29/20
 
 ### Project Title
-Replace the Project Title
+udacity-project-final
 
 ### Description
-Describe what your project is about and what it does
+final project to contain the code from bikeshare python project
 
 ### Files used
-Include the files used
+bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity, https://www.atlassian.com/git/tutorials/saving-changes/gitignore
 
