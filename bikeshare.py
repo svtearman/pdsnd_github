@@ -257,7 +257,7 @@ def main():
             print('Would you like to see five more sets of data?')
             answer = input('Yes or No: ').lower()
             start_row = start_row + 6
-            
+        #gives option to restart program
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
             break
