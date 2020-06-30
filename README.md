@@ -1,5 +1,5 @@
 ### Date created
-06/29/20
+06/29/2020
 
 ### Project Title
 udacity-project-final
