@@ -5,7 +5,7 @@
 udacity-project-final
 
 ### Description
-final project to contain the code from bikeshare python project
+Final project to contain the code from bikeshare python project and post to GitHub
 
 ### Files used
 bikeshare.py
