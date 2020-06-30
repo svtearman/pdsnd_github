@@ -244,6 +244,7 @@ def main():
         station_stats(df)
         trip_duration_stats(df)
         user_stats(df)
+	#use while loop to give option for more raw data
         data = pd.read_csv(CITY_DATA[city]) 
         start_row = 0
         print('Would you like to see five sets of raw data?')
@@ -256,7 +257,7 @@ def main():
             print('Would you like to see five more sets of data?')
             answer = input('Yes or No: ').lower()
             start_row = start_row + 6
-            
+        #gives option to restart program
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
             break
