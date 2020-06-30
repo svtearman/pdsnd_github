@@ -244,6 +244,7 @@ def main():
         station_stats(df)
         trip_duration_stats(df)
         user_stats(df)
+	#use while loop to give option for more raw data
         data = pd.read_csv(CITY_DATA[city]) 
         start_row = 0
         print('Would you like to see five sets of raw data?')
